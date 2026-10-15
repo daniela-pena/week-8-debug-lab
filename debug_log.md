@@ -18,7 +18,7 @@ How I fixed it: Removed the quotes around 1000 to make it an integer not a strin
 ## After Fixing Both Bugs
 Final output: Total: $5150.00 across 3 records
 True
-Did pytest pass? Yes / No
+Did pytest pass? Yes
 
 ## AI Literacy Reflection
 Did I use AI? No
